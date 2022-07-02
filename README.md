@@ -1,4 +1,4 @@
-# Stars
+# Backdrop stars
 
 ## React app without using CRA
 
