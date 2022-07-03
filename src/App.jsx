@@ -1,11 +1,17 @@
 import React from "react";
 
+import Stars from "./components/Stars";
+
 function App() {
     return (
-        <h1>
-            Welcome to React App thats build using Webpack
-            and Babel separately
-        </h1>
+        <>
+            <Stars />
+
+            <h1>
+                Welcome to React App thats build using
+                Webpack and Babel separately
+            </h1>
+        </>
     );
 }
 
